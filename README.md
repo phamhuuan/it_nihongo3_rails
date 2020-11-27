@@ -22,4 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# it_nihongo3_rails
